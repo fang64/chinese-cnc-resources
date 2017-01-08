@@ -16,9 +16,6 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to contribute informat
 
  * [6040 Limit/Home Switch Mounts](http://www.thingiverse.com/thing:30253) - Parts to add limit switch mounts to the 6040.
  * [6040 Dust Boot](http://www.thingiverse.com/thing:327156) - Vacuum dust boot for the 6040.
-
-*Other Modifications*
-
  * [Tall Table Clamps](http://www.thingiverse.com/thing:60630) - Tall clamps to hold down stock.
 
 ## Motion Control Software
