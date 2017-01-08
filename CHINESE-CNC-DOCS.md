@@ -13,7 +13,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to contribute informat
 *Specifics of the boards and setup information.*
 
 ## Spindle Hardware
-* Specifics of the spindle hardware and setup information
+*Specifics of the spindle hardware and setup information*
 
 ## License
 ![cc license](http://i.creative.commons.org/l/by-sa/4.0/88x31.png)

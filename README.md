@@ -35,7 +35,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to contribute informat
 ## Websites
 *Useful websites related to Chinese CNC machines.*
 
- * [CNC Zone](http://www.cnczone.com) - Discussion form for manufacturing industry. Contains sub-discussion for [chinese cnc machines](http://www.cnczone.com/forums/chinese-machines/).
+ * [CNC Zone](http://www.cnczone.com) - Discussion forum for manufacturing industry. Contains sub-discussion for [chinese cnc machines](http://www.cnczone.com/forums/chinese-machines/).
 
 ## License
 ![cc license](http://i.creative.commons.org/l/by-sa/4.0/88x31.png)
