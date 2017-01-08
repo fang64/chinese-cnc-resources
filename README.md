@@ -29,6 +29,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to contribute informat
 
  * [Grbl](https://github.com/grbl/grbl) - Grbl is a no-compromise, high performance, low cost alternative to parallel-port-based motion control for CNC milling.
  * [Mach](http://www.machsupport.com) - Mach turns a Windows PC into a CNC Motion Controller typically using parallel-port.
+ * [SmoothieBoard](http://smoothieware.org) - SmoothieBoard runs a heavily modified form of Grbl with the ability to control more than 3 axis.
 
 ## Websites
 *Useful websites related to Chinese CNC machines.*
