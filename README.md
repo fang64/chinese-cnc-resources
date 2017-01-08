@@ -13,6 +13,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to contribute informat
 ## Motion Control Software
 
  * [Grbl](https://github.com/grbl/grbl) - Grbl is a no-compromise, high performance, low cost alternative to parallel-port-based motion control for CNC milling.
+ * [Mach](http://www.machsupport.com) - Mach turns a Windows PC into a CNC Motion Controller typically using parallel-port.
 
 ## Websites
 
