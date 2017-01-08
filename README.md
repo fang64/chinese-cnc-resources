@@ -13,6 +13,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to contribute informat
 
 ## Modifications
 
+ * [6040 Limit/Home Switch Mounts](http://www.thingiverse.com/thing:30253) - Parts to add limit switch mounts to the 6040.
+
 ## Motion Control Software
 
  * [Grbl](https://github.com/grbl/grbl) - Grbl is a no-compromise, high performance, low cost alternative to parallel-port-based motion control for CNC milling.
