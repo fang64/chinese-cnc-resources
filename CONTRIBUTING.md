@@ -2,13 +2,18 @@
 
 This is a compilation of any pertinent information for owners of YooCNC, Carving CNC, and other brands and clones of Chinese CNC machines. This is structured in the same style as awesome list.
 
-## Commits
+## Commits to README.md
 * Search previous suggestions before making a new one.
 * Use the following format: `[RESOURCE](LINK) - DESCRIPTION.`
   * Keep descriptions short (<80 characters).
   * End descriptions with a full stop.
 * Make an individual commit for each category.
   * Order projects alphabetically.
+  * Consolidate multiple commits.
+
+## Commits to CHINESE-CNC-DOCS.md
+* Search previous suggestions and changes before making a new addition.
+* Make an individual commit for documentation in a section.
   * Consolidate multiple commits.
 
 ## Pull Requests
