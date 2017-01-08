@@ -1,5 +1,5 @@
 # chinese-cnc-resources
-A curated list of chinese cnc ( 3020,3040,6040, and etc. ) resources.
+A curated list of Chinese CNC ( 3020,3040,6040, and etc. ) resources.
 
 ## Contributing
 Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to contribute information.
@@ -12,24 +12,23 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to contribute informat
   * [Websites](#websites)
 
 ## Modifications
-
- *3020/3040/6040 Modifications*
+*3020/3040/6040 Modifications*
 
  * [6040 Limit/Home Switch Mounts](http://www.thingiverse.com/thing:30253) - Parts to add limit switch mounts to the 6040.
  * [6040 Dust Boot](http://www.thingiverse.com/thing:327156) - Vacuum dust boot for the 6040.
 
- *Other Modifications*
+*Other Modifications*
 
 ## Motion Control Software
+*Motion controllers for Chinese CNC Machines*
 
  * [Grbl](https://github.com/grbl/grbl) - Grbl is a no-compromise, high performance, low cost alternative to parallel-port-based motion control for CNC milling.
  * [Mach](http://www.machsupport.com) - Mach turns a Windows PC into a CNC Motion Controller typically using parallel-port.
 
 ## Websites
+*Useful websites related to Chinese CNC machines.*
 
-*Useful websites related to chinese cnc machines.*
-
-* [CNC Zone](http://www.cnczone.com) - Discussion form for manufacturing industry. Contains sub-discussion for [chinese cnc machines](http://www.cnczone.com/forums/chinese-machines/).
+ * [CNC Zone](http://www.cnczone.com) - Discussion form for manufacturing industry. Contains sub-discussion for [chinese cnc machines](http://www.cnczone.com/forums/chinese-machines/).
 
 ## License
 ![cc license](http://i.creative.commons.org/l/by-sa/4.0/88x31.png)
