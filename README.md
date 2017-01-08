@@ -6,9 +6,12 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to contribute informat
 
 ## Table of Contents
 * [Chinese CNC Resources](#chinese-cnc-resources)
+  * [Modifications](#modifications)
   * [Motion Control Software](#motion-control-software)
 * [Resources](#resources)
   * [Websites](#websites)
+
+## Modifications
 
 ## Motion Control Software
 
