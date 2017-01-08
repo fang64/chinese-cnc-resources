@@ -19,6 +19,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to contribute informat
 
 *Other Modifications*
 
+ * [Tall Table Clamps](http://www.thingiverse.com/thing:60630) - Tall clamps to hold down stock.
+
 ## Motion Control Software
 *Motion controllers for Chinese CNC Machines*
 
