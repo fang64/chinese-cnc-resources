@@ -13,7 +13,11 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to contribute informat
 
 ## Modifications
 
+ *3020/3040/6040 Modifications*
+
  * [6040 Limit/Home Switch Mounts](http://www.thingiverse.com/thing:30253) - Parts to add limit switch mounts to the 6040.
+
+ *Other Modifications*
 
 ## Motion Control Software
 
