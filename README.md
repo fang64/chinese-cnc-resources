@@ -1,5 +1,5 @@
 # chinese-cnc-resources
-A curated list of chinese cnc ( 3040,6040,8040, and etc. ) resources.
+A curated list of chinese cnc ( 3020,3040,6040, and etc. ) resources.
 
 ## Contributing
 Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to contribute information.
